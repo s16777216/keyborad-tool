@@ -1,0 +1,4 @@
+node_modules/
+# 含實際資料表名稱的個人檔案，不上傳
+script.txt
+input.txt
